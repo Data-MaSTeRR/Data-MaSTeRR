@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/HuggingFace-FFBF00?style=for-the-badge&logo=huggingface&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/LangChain-0055D4?style=for-the-badge&logo=chainlink&logoColor=white" />&nbsp
 </div>
 
 <div align="center">

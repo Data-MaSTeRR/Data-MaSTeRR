@@ -77,19 +77,22 @@
   <p><strong>Top Languages</strong></p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Data-MaSTeRR&layout=compact&theme=radical" />
   <br />
-  
 </div>
 
 <br>
 
 <h3 align="center">📩 Contact 📩</h3>
 <div align="center">
-  <a href="hyunwoo8504@gmail.com">
+  <a href="mailto:hyunwoo8504@gmail.com">
     <img
       src="https://img.shields.io/badge/hyunwoo8504@gmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp
   </a>
   <a href="https://www.instagram.com/shim_kunn/">
     <img
       src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp
+  </a>
+  <a href="https://velog.io/@datamasterr/posts">
+    <img
+      src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>&nbsp
   </a>
 </div>

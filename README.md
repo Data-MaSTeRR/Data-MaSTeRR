@@ -68,9 +68,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Data-MaSTeRR&layout=compact&theme=radical" />
   <br />
   
-  <!-- GitHub Streak -->
-  <p><strong>GitHub Streak</strong></p>
-  <img src="https://streak-stats.demolab.com/?user=Data-MaSTeRR&theme=radical" />
 </div>
 
 <br>

@@ -19,6 +19,15 @@
 </div>
 
 <div align="center">
+  <!-- AI -->
+  <p><strong>AI</strong></p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/HuggingFace-FFBF00?style=for-the-badge&logo=huggingface&logoColor=black" />&nbsp
+</div>
+
+<div align="center">
   <!-- DevOps -->
   <p><strong>DevOps</strong></p>
   <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
@@ -72,7 +81,7 @@
 
 <br>
 
-<h3 align="center">📫 Contact 📫</h3>
+<h3 align="center">📩 Contact 📩</h3>
 <div align="center">
   <a href="hyunwoo8504@gmail.com">
     <img

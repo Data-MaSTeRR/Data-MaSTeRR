@@ -84,7 +84,7 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="20212908@soongsil.ac.kr">
+  <a href="hyunwoo8504@gmail.com">
     <img
       src="https://img.shields.io/badge/hyunwoo8504@gmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp
   </a>

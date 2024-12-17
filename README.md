@@ -1,5 +1,4 @@
 <h3 align="center">✨ Tech Stack ✨</h3>
-<h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <!-- 프론트엔드 -->
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
@@ -17,6 +16,7 @@
 </div>
 
 <div align="center">
+  <!-- DevOps -->
   <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/aws-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp

@@ -57,6 +57,24 @@
 
 <br>
 
+<div align="center">
+  <!-- GitHub Stats -->
+  <p><strong>GitHub Stats</strong></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Data-MaSTeRR&show_icons=true&theme=radical" />
+  <br />
+  
+  <!-- Top Languages -->
+  <p><strong>Top Languages</strong></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Data-MaSTeRR&layout=compact&theme=radical" />
+  <br />
+  
+  <!-- GitHub Streak -->
+  <p><strong>GitHub Streak</strong></p>
+  <img src="https://streak-stats.demolab.com/?user=Data-MaSTeRR&theme=radical" />
+</div>
+
+<br>
+
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="hyunwoo8504@gmail.com">

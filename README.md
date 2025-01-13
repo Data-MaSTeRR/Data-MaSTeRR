@@ -15,6 +15,8 @@
   <img src="https://img.shields.io/badge/spring boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/apache kafka-231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white" />&nbsp
 </div>
 
 <div align="center">

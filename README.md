@@ -45,7 +45,6 @@
 <div align="center">
   <!-- Blockchain -->
   <p><strong>Blockchain</strong></p>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" />&nbsp
 </div>

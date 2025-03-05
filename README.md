@@ -36,10 +36,6 @@
   <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/aws-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/azure-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/argo-CD-FF9900?style=for-the-badge&logo=argo&logoColor=white" />&nbsp
 </div>
 
 <div align="center">

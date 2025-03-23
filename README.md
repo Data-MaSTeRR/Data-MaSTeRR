@@ -92,11 +92,6 @@
   <a href="https://www.instagram.com/shim_kunn/">
     <img
       src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp
-  </a>
-  <a href="https://velog.io/@datamasterr/posts">
-    <img
-      src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>&nbsp
-  </a>
   <a href="https://www.linkedin.com/in/%ED%98%84%EC%9A%B0-%EC%8B%AC-a1162520a/">
     <img
       src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>&nbsp

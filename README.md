@@ -23,6 +23,14 @@
     alt="Next.js"
     height="28"
   />&nbsp;
+</div>
+  
+<div align="center">
+  <img
+  src="https://img.shields.io/badge/-React%20Native-000?logo=react&logoColor=white&style=for-the-badge"
+  alt="React Native"
+  height="28"
+  />
   <img
     src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"
     alt="Flutter"
@@ -34,11 +42,6 @@
   <!-- Backend -->
   <p><strong>Backend</strong></p>
   <img
-    src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"
-    alt="FastAPI"
-    height="28"
-  />&nbsp;
-  <img
     src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
     alt="Node.js"
     height="28"
@@ -49,15 +52,23 @@
   height="28"
   />
   <img
-    src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"
-    alt="Spring Boot"
+    src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"
+    alt="FastAPI"
     height="28"
   />&nbsp;
+<div/>
+
+<div align="center">
   <img
     src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
     alt="MySQL"
     height="28"
   />&nbsp;
+  <img
+  src="https://img.shields.io/badge/-MongoDB-13aa52?logo=mongodb&logoColor=white&style=for-the-badge"
+  alt="MongoDB"
+  height="28"
+  />
   <img
     src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"
     alt="Redis"
@@ -126,11 +137,6 @@
   <img
     src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"
     alt="Solidity"
-    height="28"
-  />&nbsp;
-  <img
-    src="https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white"
-    alt="Hyperledger"
     height="28"
   />&nbsp;
 </div>

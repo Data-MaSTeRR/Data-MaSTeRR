@@ -44,6 +44,11 @@
     height="28"
   />&nbsp;
   <img
+  src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
+  alt="Express.js"
+  height="28"
+  />
+  <img
     src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"
     alt="Spring Boot"
     height="28"
@@ -76,11 +81,6 @@
   <img
     src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"
     alt="TensorFlow"
-    height="28"
-  />&nbsp;
-  <img
-    src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"
-    alt="OpenAI"
     height="28"
   />&nbsp;
   <img

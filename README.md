@@ -223,7 +223,7 @@
   <p><strong>Top Languages</strong></p>
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Data-MaSTeRR&layout=compact&theme=radical"
-    alt="Top Languages"
+    alt="Top Languages！"
   />
 </div>
 

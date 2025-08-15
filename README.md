@@ -1,3 +1,11 @@
+<h3 align="center">🍄 Baekjoon Algorithm 🍄</h3>
+
+<div align="center">
+
+  ![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=shim_kunn)
+
+</div>
+
 <h3 align="center">✨ Tech Stack ✨</h3>
 
 <div align="center">

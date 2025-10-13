@@ -82,31 +82,6 @@
 </div>
 
 <div align="center">
-  <!-- AI -->
-  <p><strong>AI</strong></p>
-  <img
-    src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"
-    alt="PyTorch"
-    height="28"
-  />&nbsp;
-  <img
-    src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"
-    alt="TensorFlow"
-    height="28"
-  />&nbsp;
-  <img
-    src="https://img.shields.io/badge/HuggingFace-FFBF00?style=for-the-badge&logo=huggingface&logoColor=black"
-    alt="HuggingFace"
-    height="28"
-  />&nbsp;
-  <img
-    src="https://img.shields.io/badge/LangChain-0055D4?style=for-the-badge&logo=chainlink&logoColor=white"
-    alt="LangChain"
-    height="28"
-  />&nbsp;
-</div>
-
-<div align="center">
   <!-- DevOps -->
   <p><strong>DevOps</strong></p>
   <img
@@ -127,6 +102,31 @@
   <img
     src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"
     alt="Azure"
+    height="28"
+  />&nbsp;
+</div>
+
+<div align="center">
+  <!-- AI -->
+  <p><strong>AI</strong></p>
+  <img
+    src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"
+    alt="PyTorch"
+    height="28"
+  />&nbsp;
+  <img
+    src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"
+    alt="TensorFlow"
+    height="28"
+  />&nbsp;
+  <img
+    src="https://img.shields.io/badge/HuggingFace-FFBF00?style=for-the-badge&logo=huggingface&logoColor=black"
+    alt="HuggingFace"
+    height="28"
+  />&nbsp;
+  <img
+    src="https://img.shields.io/badge/LangChain-0055D4?style=for-the-badge&logo=chainlink&logoColor=white"
+    alt="LangChain"
     height="28"
   />&nbsp;
 </div>

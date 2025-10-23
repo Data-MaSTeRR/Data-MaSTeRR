@@ -22,11 +22,6 @@
     height="28"
   />&nbsp;
   <img
-    src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
-    alt="Next.js"
-    height="28"
-  /&nbsp;>
-  <img
     src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"
     alt="Flutter"
     height="28"
@@ -36,26 +31,40 @@
 <div align="center">
   <!-- Backend -->
   <p><strong>Backend</strong></p>
-  <img
-    src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"
-    alt="Spring"
-    height="28"
-  />&nbsp;
+    <p>
+    <!-- Spring MVC -->
+    <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring MVC" height="28"/>
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" height="28"/>
+    <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf" height="28"/>
+    <img src="https://img.shields.io/badge/JPA%2FHibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA/Hibernate" height="28"/>
+    </p>
+    <p>
+    <!-- Spring Security -->
+    <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"     height="28"/>
+    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" height="28"/>
+    <img src="https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth2" height="28"/>
+    </p>
+    <p>
+    <!-- Spring Cloud -->
+    <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Cloud" height="28"/>
+    <img src="https://img.shields.io/badge/Eureka-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Eureka" height="28"/>
+    <img src="https://img.shields.io/badge/Gateway-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Cloud Gateway" height="28"/>
+    <img src="https://img.shields.io/badge/OpenFeign-0A66C2?style=for-the-badge&logo=apache&logoColor=white" alt="OpenFeign" height="28"/>
+    <img src="https://img.shields.io/badge/Config%20Server-FF6F00?style=for-the-badge&logo=apache%20maven&logoColor=white" alt="Config Server" height="28"/>
+
+</p>
+<p>
   <img
     src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
     alt="Node.js"
     height="28"
-  />&nbsp;
-  <img
-  src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
-  alt="Express.js"
-  height="28"
   />
   <img
     src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"
     alt="FastAPI"
     height="28"
   />&nbsp;
+</p>
 <div/>
 
 <div align="center">
@@ -64,6 +73,8 @@
     alt="MySQL"
     height="28"
   />&nbsp;
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" height="28"/>&nbsp;
+  
   <img
   src="https://img.shields.io/badge/-MongoDB-13aa52?logo=mongodb&logoColor=white&style=for-the-badge"
   alt="MongoDB"
@@ -93,6 +104,11 @@
     src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"
     alt="Kubernetes"
     height="28"
+  />&nbsp;
+  <img
+  src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"
+  alt="Jenkins"
+  height="28"
   />&nbsp;
   <img
     src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"

@@ -1,3 +1,8 @@
+<h1 align="center">👋 Hi, I'm Data-MaSTeRR</h1>
+<p align="center">
+  <strong>Full Stack Developer | AI & Blockchain Enthusiast</strong>
+</p>
+
 <h3 align="center">🍄 Baekjoon Algorithm 🍄</h3>
 
 <div align="center">
@@ -65,9 +70,11 @@
     height="28"
   />&nbsp;
 </p>
-<div/>
+</div>
 
 <div align="center">
+  <!-- Database & Messaging -->
+  <p><strong>Database & Messaging</strong></p>
   <img
     src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
     alt="MySQL"
@@ -239,7 +246,7 @@
   <p><strong>Top Languages</strong></p>
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Data-MaSTeRR&layout=compact&theme=radical"
-      alt="Top Languages！"
+      alt="Top Languages"
     />
   </div>
 

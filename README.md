@@ -1,8 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Data-MaSTeRR
-
-**Full Stack Developer | AI & Blockchain Enthusiast**
+# 👋 Hi, I'm Eric SHIM @ Samsung SDS
 
 ---
 
@@ -43,7 +41,7 @@ _Spring Cloud_
 <img src="https://img.shields.io/badge/OpenFeign-0A66C2?style=for-the-badge&logo=apache&logoColor=white" alt="OpenFeign" height="28"/>
 <img src="https://img.shields.io/badge/Config%20Server-FF6F00?style=for-the-badge&logo=apache%20maven&logoColor=white" alt="Config Server" height="28"/>
 
-_기타 백엔드 기술_
+_ETC._
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" height="28"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" height="28"/>&nbsp;

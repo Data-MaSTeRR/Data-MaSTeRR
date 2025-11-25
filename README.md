@@ -52,7 +52,9 @@ _ETC._
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" height="28"/>&nbsp;
 <img src="https://img.shields.io/badge/-MongoDB-13aa52?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" height="28"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" height="28"/>&nbsp;
+
 <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka" height="28"/>&nbsp;
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" height="28"/>
 
 **DevOps**
 

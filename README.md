@@ -17,12 +17,16 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="28"/>&nbsp;
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="28"/>&nbsp;
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" height="28"/>&nbsp;
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" height="28"/>&nbsp;
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" height="28"/>&nbsp;
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" height="28"/>&nbsp;
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" height="28"/>&nbsp;
 
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" height="28"/>&nbsp;
 
 **Backend**
+
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" height="28"/>&nbsp;
 
 _Spring MVC_
 
@@ -103,11 +107,11 @@ _ETC._
 
 **GitHub Stats**
 
-<img src="https://github-readme-stats.vercel.app/api?username=Data-MaSTeRR&show_icons=true&theme=radical" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Data-MaSTeRR&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats"/>
 
 **Top Languages**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Data-MaSTeRR&layout=compact&theme=radical" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Data-MaSTeRR&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages"/>
 
 ---
 

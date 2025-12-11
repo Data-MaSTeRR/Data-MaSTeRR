@@ -107,11 +107,11 @@ _ETC._
 
 **GitHub Stats**
 
-<img src="https://github-readme-stats.vercel.app/api?username=Data-MaSTeRR&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-nine-omega-71.vercel.app/api?username=Data-MaSTeRR&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats"/>
 
 **Top Languages**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Data-MaSTeRR&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages"/>
+<img src="https://github-readme-stats-nine-omega-71.vercel.app/api/top-langs/?username=Data-MaSTeRR&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages"/>
 
 ---
 

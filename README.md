@@ -124,7 +124,7 @@ _ETC._
 ### 📩 Contact 📩
 
 <a href="mailto:hieric.shim@samsung.com">
-  <img src="https://img.shields.io/badge/devgosu8504@shinhan.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" height="28"/>
+  <img src="https://img.shields.io/badge/hieric.shim@samsung.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" height="28"/>
 </a>&nbsp;
 <a href="https://www.instagram.com/shim_kunn/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="28"/>

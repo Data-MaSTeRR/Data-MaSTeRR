@@ -123,7 +123,7 @@ _ETC._
 
 ### 📩 Contact 📩
 
-<a href="mailto:devgosu8504@shinhan.com">
+<a href="mailto:hieric.shim@samsung.com">
   <img src="https://img.shields.io/badge/devgosu8504@shinhan.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" height="28"/>
 </a>&nbsp;
 <a href="https://www.instagram.com/shim_kunn/">

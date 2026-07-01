@@ -10,6 +10,17 @@
 
 ---
 
+### 🏅 Certifications 🏅
+
+<a href="https://www.credly.com/badges/d3ddaeae-4b06-4b6c-99f8-a3010c6fb41c/public_url" target="_blank">
+  <img src="https://img.shields.io/badge/CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKA" height="28"/>
+</a>&nbsp;
+<a href="https://www.credly.com/badges/81f7d82f-8e39-465e-bf4c-8b02eb49e7b3/public_url" target="_blank">
+  <img src="https://img.shields.io/badge/CKAD-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKAD" height="28"/>
+</a>
+
+---
+
 ### ✨ Tech Stack ✨
 
 **Frontend**
